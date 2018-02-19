@@ -1,0 +1,1 @@
+Egyszerû footer alap, igazítás nélkül.
