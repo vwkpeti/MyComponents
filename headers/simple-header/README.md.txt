@@ -1,0 +1,1 @@
+Egyszeru fejlec, a <html> tag-ek koze kell masolni.
